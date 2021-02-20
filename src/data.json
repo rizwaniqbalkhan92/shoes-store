@@ -1,0 +1,222 @@
+{
+
+"shoes-1":{
+    "price":"2000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/293c07a9879349cf87c1a8b700e52a51_9366/Swift_Run_Shoes_Black_AQ0863_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03QOfqnONJ6BRPMo88OEpR_ye-arIvKsxlw&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xQlMvVotM9b4XaX7xFY2mCcHuCteYOt7yg&usqp=CAU",
+        "color":"BLACK",
+        "company":"ADIDAS"
+    }
+},
+"shoes-2":{
+    "price":"3000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/2ec558abcbdb43208b2eab0901285707_9366/NMD_R1_Shoes_Red_FV9017_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEqigEqbgdpJ-xZaR9icROHKBQ11XFmPhYQ&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujKps5AgysOklKvMTArZdLGjnbTM0GWBgRQ&usqp=CAU",
+        "color":"RED",
+        "company":"ADIDAS"
+    }
+}
+,
+"shoes-3":{
+    "price":"2500",
+    "img":"https://media.hypedc.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/_/o/_o8a0026_1_7.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXuhb4STzjRyBt93FT8tFDJJgM7em9A1LAg&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsrf4RPRjQcJ6BSFmzKRLaw-2GFaRW2FfQgQ&usqp=CAU",
+        "color":"MAROON",
+        "company":"ADIDAS"
+    }
+}
+,
+"shoes-4":{
+    "price":"3000",
+    "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/fa6467f9f6bf4465a121ab090128b889_9366/NMD_R1_Shoes_Blue_FV9018_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNO5aazFqDaPLd-f1zh25-jec8ahQlwt9GIg&usqp=CAU",
+        "imgDetailss":"https://www.footasylum.com/images/products/large/4033653.jpg",
+        "color":"NAVY BLUE",
+        "company":"ADIDAS"
+    }
+
+},
+"shoes-5":{
+    "price":"2300",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/f681053480464ff8bea5ab1b011351ba_9366/NMD_R1_Shoes_White_FV8151_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNNswoGWEyoYyJGS-V2lZ96fVgceVcWhWJmg&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp8id7FvzAev3m-nZc4e7sydBOaWBCVmClCg&usqp=CAU",
+        "color":"WHITE",
+        "company":"NIKE"
+    }
+}
+,
+"shoes-6":{
+    "price":"2000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/45d6d95276cb4a2092f7ab0400212050_9366/NMD_R1_Shoes_Green_FW6415_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXZSYTb79ipzO_zacFA0g9CQP-y1qPGRDlA&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCqdfd-97pZi0GKAHmCiaXUFRx8iRpip5Dg&usqp=CAU",
+        "color":"GREEN",
+        "company":"ADIDAS"
+    }
+}
+,
+"shoes-7":{
+    "price":"3500",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/7ce86f1585664aa8927ea8c0009d3788_9366/X_PLR_Shoes_Pink_BY9880_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX87DY9NAWD3bJAcB0KoCqIbcB8I4glaeX1w&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgouxyFvQQorymh9-8ZXVbPv2yTZ81NDcxsw&usqp=CAU",
+        "color":"PINK",
+        "company":"ADIDAS"
+    }
+
+},
+"shoes-8":{
+    "price":"2200",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1CITLt5W4GinGi4eVDH7qEgNtJNFrjjtuA&usqp=CAU",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxqCizg0Ze8zFUVfjXgfzTNx4-afREd3bOw&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FGu-jij9Cu2Afj8uc8hMdTK9_3RyD2Ug5g&usqp=CAU",
+        "color":"BROWN",
+        "company":"ADIDAS"
+    
+}
+},
+"shoes-9":{
+    "price":"2500",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/a28ebb0ea741481d8ca7ac4d00f09a31_9366/Star_Wars_Mandalorian_NMD_R1_Shoes_Brown_GZ2745_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50vPxPMe5t4WjkOf8fu7Lr8mxKm0gmVduZA&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6isfORr7nWMdLoTK-kBmmdhmdWT9gR3p8w&usqp=CAU",
+        "color":"BROWN",
+        "company":"ADIDAS"
+    }
+
+},
+"shoes-10":{
+    "price":"2000",
+    "img":"https://www.office.co.uk/medias/sys_master/root/h47/h9e/9119757631518/9119757631518.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKgReZAp4MRT0IREPNu0wv9Y0Ht0CAmT2Ww&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlP9yNF5t8Fs3HWsQACpsD16Y2F9vpXrA8KA&usqp=CAU",
+        "color":"BLUE",
+        "company":"ADIDAS"
+    }
+
+},
+"shoes-11":{
+    "price":"4000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/e466d77570f74557bd1dab3c011ae2db_9366/SoleMatch_Bounce_Hard_Court_Shoes_Blue_EH2866_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLe3d9ajFoKEcWYtQoQOv8iZDKZGY48Cbpg&usqp=CAU",
+        "imgDetailss":"https://assets.adidas.com/images/w_600,f_auto,q_auto/e466d77570f74557bd1dab3c011ae2db_9366/SoleMatch_Bounce_Hard_Court_Shoes_Blue_EH2866_01_standard.jpg",
+        "color":"SKY BLUE",
+        "company":"ADIDAS"
+    
+}
+},
+"shoes-12":{
+    "price":"2000",
+    "img":"https://di2ponv0v5otw.cloudfront.net/posts/2018/09/27/5bad544b409c151900f5676a/m_5bad54beaaa5b86da659b6b8.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqcuc47MAV4U_lXP7La0Btze1WkCft3OPZg&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGMm4grpbMTkKXXRssLBQADyMeE-IOIq10Ag&usqp=CAU",
+        "color":"C-GREEN",
+        "company":"ADIDAS"
+    
+}
+}
+,
+"shoes-13":{
+    "price":"2000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/293c07a9879349cf87c1a8b700e52a51_9366/Swift_Run_Shoes_Black_AQ0863_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03QOfqnONJ6BRPMo88OEpR_ye-arIvKsxlw&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xQlMvVotM9b4XaX7xFY2mCcHuCteYOt7yg&usqp=CAU",
+        "color":"BLACK",
+        "company":"NIKE"
+    }
+},
+"shoes-14":{
+    "price":"3000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/2ec558abcbdb43208b2eab0901285707_9366/NMD_R1_Shoes_Red_FV9017_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEqigEqbgdpJ-xZaR9icROHKBQ11XFmPhYQ&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujKps5AgysOklKvMTArZdLGjnbTM0GWBgRQ&usqp=CAU",
+        "color":"RED",
+        "company":"NIKE"
+    }
+}
+,
+"shoes-15":{
+    "price":"2500",
+    "img":"https://media.hypedc.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/_/o/_o8a0026_1_7.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXuhb4STzjRyBt93FT8tFDJJgM7em9A1LAg&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsrf4RPRjQcJ6BSFmzKRLaw-2GFaRW2FfQgQ&usqp=CAU",
+        "color":"MAROON",
+        "company":"ADIDAS"
+    }
+}
+,
+"shoes-16":{
+    "price":"3000",
+    "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/fa6467f9f6bf4465a121ab090128b889_9366/NMD_R1_Shoes_Blue_FV9018_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNO5aazFqDaPLd-f1zh25-jec8ahQlwt9GIg&usqp=CAU",
+        "imgDetailss":"https://www.footasylum.com/images/products/large/4033653.jpg",
+        "color":"NAVY BLUE",
+        "company":"NIKE"
+    }
+
+},
+"shoes-17":{
+    "price":"2300",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/f681053480464ff8bea5ab1b011351ba_9366/NMD_R1_Shoes_White_FV8151_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNNswoGWEyoYyJGS-V2lZ96fVgceVcWhWJmg&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp8id7FvzAev3m-nZc4e7sydBOaWBCVmClCg&usqp=CAU",
+        "color":"WHITE",
+        "company":"GUCCI"
+    }
+}
+,
+"shoes-18":{
+    "price":"2000",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/45d6d95276cb4a2092f7ab0400212050_9366/NMD_R1_Shoes_Green_FW6415_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXZSYTb79ipzO_zacFA0g9CQP-y1qPGRDlA&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCqdfd-97pZi0GKAHmCiaXUFRx8iRpip5Dg&usqp=CAU",
+        "color":"GREEN",
+        "company":"NIKE"
+    }
+}
+,
+"shoes-19":{
+    "price":"3500",
+    "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/7ce86f1585664aa8927ea8c0009d3788_9366/X_PLR_Shoes_Pink_BY9880_01_standard.jpg",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX87DY9NAWD3bJAcB0KoCqIbcB8I4glaeX1w&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgouxyFvQQorymh9-8ZXVbPv2yTZ81NDcxsw&usqp=CAU",
+        "color":"PINK",
+        "company":"NIKE"
+    }
+
+},
+"shoes-20":{
+    "price":"2200",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1CITLt5W4GinGi4eVDH7qEgNtJNFrjjtuA&usqp=CAU",
+    "details":{
+        "imgDetails":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxqCizg0Ze8zFUVfjXgfzTNx4-afREd3bOw&usqp=CAU",
+        "imgDetailss":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FGu-jij9Cu2Afj8uc8hMdTK9_3RyD2Ug5g&usqp=CAU",
+        "color":"BROWN",
+        "company":"ADIDAS"
+    
+}
+}
+}
